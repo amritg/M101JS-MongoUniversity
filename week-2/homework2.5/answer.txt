@@ -1,0 +1,4 @@
+> db.movieDetails.find({genres: { $all: ["Comedy","Crime"]}},{genres:1}).count()
+56
+
+// { $and: [ { tags: "ssl" }, { tags: "security" } ] }

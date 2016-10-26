@@ -1,0 +1,2 @@
+1) db.movieDetails.find({year: 1964},{title: 1, _id:0})
+2) db.movieDetails.find({},{title: 1, _id:0})
