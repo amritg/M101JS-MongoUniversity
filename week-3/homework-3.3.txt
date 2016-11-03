@@ -1,0 +1,1 @@
+Anser: 169 (program resides on buildingQueryDocuments folder)
